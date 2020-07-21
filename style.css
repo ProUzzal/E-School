@@ -1,0 +1,94 @@
+body {
+  font-family: "Cabin", sans-serif;
+}
+.container {
+  margin-bottom: 80px;
+}
+header,
+.navbar {
+  background-color: #f0fff0;
+}
+#logo {
+  height: 58px;
+  width: 198px;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+  font-weight: 600;
+}
+.btn {
+  text-decoration: none;
+  color: white;
+  border-radius: 40px;
+}
+.btn:hover {
+  background-image: linear-gradient(to right, yellow, red);
+  color: black;
+}
+.col-md-6 img {
+  width: 100%;
+}
+.col-md-6 h6 {
+  color: red;
+}
+span {
+  color: #449d44;
+}
+.col-md-6 h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+.col-md-3 img {
+  width: 75px;
+  height: 80px;
+}
+.col-md-3 {
+  box-shadow: 5px 5px 60px lightgrey;
+  padding: 30px;
+  border-radius: 18px;
+}
+.col-md-3 h4,
+.text-color {
+  color: #8f47f6;
+}
+.feature {
+  margin-bottom: 30px;
+}
+.online-course img {
+  width: 100%;
+}
+.course {
+  box-shadow: 5px 5px 30px lightgrey;
+}
+.card-footer {
+}
+#man {
+  height: 100px;
+  width: 100px;
+  margin-right: 50px;
+}
+.li-first {
+  font-weight: bold;
+  font-size: 20px;
+}
+.footer-area {
+  background-color: #282531;
+  padding: 25px 0px 1px 0px;
+}
+
+.footer-elements {
+  line-height: 35px;
+  color: white;
+}
+ul {
+  margin-left: 60px;
+}
+.col-md-4 p {
+  text-align: justify;
+}
+.footer-section {
+  color: white;
+}
+.card {
+  padding: 10px;
+}
